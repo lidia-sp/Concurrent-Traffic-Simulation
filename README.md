@@ -1,6 +1,7 @@
 # CPPND: Program a Concurrent Traffic Simulation
-
+All tasks have been implemented by me. Project has been reviewed by Udacity reviewer and has fulfilled all requirements. Status: Passed.
 <img src="data/traffic_simulation.gif"/>
+
 
 This is the project for the fourth course in the [Udacity C++ Nanodegree Program](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213): Concurrency. 
 
